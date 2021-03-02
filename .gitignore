@@ -6,7 +6,7 @@
 # Project Files
 *.txt
 *.html
-
+*.exe
 # User-specific files
 *.rsuser
 *.suo
