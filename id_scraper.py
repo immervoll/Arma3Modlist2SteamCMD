@@ -1,5 +1,7 @@
-from bs4 import BeautifulSoup
 import requests
+from bs4 import BeautifulSoup
+
+
 def getIds(modfile="./modlist.html"):
     modlist = open(modfile,"r" )
     soup = BeautifulSoup(modlist, "html.parser")
