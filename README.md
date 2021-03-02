@@ -9,4 +9,4 @@ This small script converts Arma3 Modlists to steamcmd scripts
 4. upload the generated modlistUpdater*.txt to your server
 5. run the script with ``` steamcmd.sh +runscript /path/to/your/modlistUpdater*.txt```
 ## Windows Build
-For Windows you can [Download latest build here](https://github.com//immervoll/Arma3Modlist2SteamCMD/releases/latest/download/asset-name.zip). Note that those are not fully supported (yet).
+For Windows you can [Download latest build here](https://github.com/immervoll/Arma3Modlist2SteamCMD/releases). Note that those are not fully supported (yet).
