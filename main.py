@@ -19,4 +19,3 @@ for id in id_scraper.getIds(modfile):
 print (Fore.GREEN + f"FINISHED: added {i} mods to the file.")
 f.write("quit")
 f.close()
-id_scraper.getIds
