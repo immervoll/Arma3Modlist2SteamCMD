@@ -10,7 +10,7 @@ assert os.path.exists(modfile), Fore.RED + f"unable to locate the modlist html a
 user = input("Steam User: ")
 pw = input("Steam Password: ")
 
-f = open(f"modlistUpdater_{pack_name}.txt", "a")
+f = open(f"modlistupdater_{pack_name}.txt", "a")
 f.write(f"login {user} {pw} \n")
 i=0
 for id in id_scraper.getIds(modfile):
